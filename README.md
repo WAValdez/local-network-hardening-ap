@@ -29,7 +29,7 @@ Posteriormente, bajo el menú `LAN > LAN Host Configuration`, se aplicaron los s
 
 
 > ![Configuración de Interfaz LAN y DHCP](./assets/lan_dhcp_config.png)]
-> ![Configuración de Interfaz DHCP](./assets/lan_dhcp_config.png)]
+> ![Configuración de Interfaz DHCP](./assets/lan_dhcp_config1.png)]
 
 ### 3. Hardening Inalámbrico (Remediación de Cifrado Vulnerable)
 El firmware nativo negociaba por defecto algoritmos basados en **TKIP**, provocando alertas de "Seguridad Baja" en los dispositivos clientes debido a sus vulnerabilidades estructurales ante ataques de inyección de paquetes.
